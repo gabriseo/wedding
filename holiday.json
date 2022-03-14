@@ -1,0 +1,33 @@
+[
+
+  {
+    "title": "Valentine Day",
+    "date": "14/02/2023",
+    "image": "https://thegoodenglishacademy.com/wp-content/uploads/2018/06/Valentines-Day.jpg"
+  },
+  {
+    "title": "Christmas Day",
+    "date": "25/12/2022",
+    "image": "https://c.tadst.com/gfx/750w/christmas.jpg"
+  },
+  {
+    "title": "Eid-al-Adha",
+    "date": "09/07/2022",
+    "image": "https://img-s1.onedio.com/id-61bf1022aab00b6d1431625f/rev-0/w-620/f-jpg/s-06fa610e3eb678af4a3f0fe84993da81ea0787d2.jpg"
+  },
+  {
+    "title": "Rajasthan Day",
+    "date": "30/04/2022",
+    "image": "https://www.india.com/wp-content/uploads/2017/03/rajasthan-dance.jpg"
+  },
+  {
+    "title": "Independence Day(Morocco)",
+    "date": "18/11/2022",
+    "image": "https://static.officeholidays.com/images/935x475c/morocco_flag_01.jpg"
+  },
+  {
+    "title": "Benim Kurtulduğum Gün",
+    "date": "23/01/2022",
+    "image": "https://imgix.bustle.com/uploads/image/2021/12/7/12e1ab6a-52a5-484b-bd82-1c242e9d311f-agent-smith.jpg"
+  }
+]
